@@ -5,9 +5,9 @@
 <p align="center">Featuring a range of algorithms, including:</p>
 
 <ul align="center">
-  <li>🛣 Dijkstra</li>
-  <li>🌟 A*</li>
-  <li>🔄 Sorting (Bubble, Merge, Quick, and more)</li>
+  🛣 Dijkstra</li>
+  🌟 A*</li>
+  🔄 Sorting (Bubble, Merge, Quick, and more)</li>
 </ul>
 
 <h3 align="center">📚 Dive into the code and explore the algorithms in action! 📚</h3>
